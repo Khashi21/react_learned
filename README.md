@@ -1,12 +1,17 @@
-# React + Vite
+#check-Point
+This repo is a checkpoint that I have completed React.js lectue and hands on practice.
+As I haven't studied from any paid course I;m not getting any certificates or any aproved certificate that I have succesfully completed my React.js learnig it is important for me to share this repo of my raw codes that i wrote while studing so that's it.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+What I have learned:
+import/export of files
+useState hooks(variable of react)
+adding css using tailwindcss
+form handing in react 
+two way binding
+components
+props drilling
+rendering json data
+integrating API(axios)
+React Router DOM
+useEffect
+context API
